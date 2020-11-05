@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>PS Plus Monthly Games</heading>
+    <tagline>Farming Simulator 2019 and Cities: Skylines</tagline>
+    <storyimg_href>ph/ph-320x180.png</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+</Articles>
